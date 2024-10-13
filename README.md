@@ -59,7 +59,7 @@ Open the project in Visual Studio Code:
 code .
 ```
 
-###  Run
+####  Run
 
 Build:
 
@@ -91,13 +91,13 @@ dotnet run --project cli-cs -- greet --language es name.txt
 dotnet run --project cli-cs -- greet -l bg name.txt
 ```
 
-### Test
+#### Test
 
 ```bash
 dotnet test cli-cs-tests
 ```
 
-### Docs
+#### Docs
 
 ```bash
 # build
