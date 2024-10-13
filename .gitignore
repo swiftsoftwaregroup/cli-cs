@@ -38,3 +38,5 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
+
+name.txt

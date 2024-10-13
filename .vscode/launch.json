@@ -6,10 +6,10 @@
     "configurations": [
         {
             "name": "C#: Debug CLI",
-            "type": "dotnet",
+            "type": "coreclr",
             "request": "launch",
-            "projectPath": "${workspaceFolder}/cli-cs/cli-cs.csproj"
+            "preLaunchTask": "dotnet: build",
+            "program": "${workspaceFolder}/cli-cs/bin/Debug/net8.0/cli-cs.dll",
         }
-
-    ]
+   ]
 }
