@@ -1,4 +1,4 @@
-# CLI-CS Documentation
+# CLI-CS
 
 ## Getting Started
 
